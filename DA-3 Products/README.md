@@ -1,19 +1,19 @@
 @Минипроект и CSV файл.
 
 Структура данных:
-└── data
-   ├── 2020-12-30
-   │  ├── FirstName_LastName1
-   │  │   └── data.csv
-   │  ├── FirstName_LastName2
-   │  │   └── data.csv
-   │  └── FirstName_LastName3
-   │      └── data.csv
-   └── 2020-12-31
-      ├── FirstName_LastName1
-      │   └── data.csv
-      └── FirstName_LastName5
-          └── data.csv
+└── data\
+   ├── 2020-12-30\
+   │  ├── FirstName_LastName1\
+   │  │   └── data.csv\
+   │  ├── FirstName_LastName2\
+   │  │   └── data.csv\
+   │  └── FirstName_LastName3\
+   │      └── data.csv\
+   └── 2020-12-31\
+      ├── FirstName_LastName1\
+      │   └── data.csv\
+      └── FirstName_LastName5\
+          └── data.csv\
 ---------------------------------------------------------------------------------------------
 Например, 
 30 декабря три покупателя сделали покупки, 
